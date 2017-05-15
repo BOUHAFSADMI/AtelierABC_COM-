@@ -1,0 +1,16 @@
+c:\users\sadmi\documents\visual studio 2017\Projects\WpfClientApp\WpfClientApp\bin\Debug\WpfClientApp.exe.config
+c:\users\sadmi\documents\visual studio 2017\Projects\WpfClientApp\WpfClientApp\bin\Debug\WpfClientApp.exe
+c:\users\sadmi\documents\visual studio 2017\Projects\WpfClientApp\WpfClientApp\bin\Debug\WpfClientApp.pdb
+c:\users\sadmi\documents\visual studio 2017\Projects\WpfClientApp\WpfClientApp\obj\Debug\WpfClientApp.csprojResolveAssemblyReference.cache
+c:\users\sadmi\documents\visual studio 2017\Projects\WpfClientApp\WpfClientApp\obj\Debug\MainWindow.g.cs
+c:\users\sadmi\documents\visual studio 2017\Projects\WpfClientApp\WpfClientApp\obj\Debug\App.g.cs
+c:\users\sadmi\documents\visual studio 2017\Projects\WpfClientApp\WpfClientApp\obj\Debug\WpfClientApp_MarkupCompile.cache
+c:\users\sadmi\documents\visual studio 2017\Projects\WpfClientApp\WpfClientApp\obj\Debug\WpfClientApp_MarkupCompile.lref
+c:\users\sadmi\documents\visual studio 2017\Projects\WpfClientApp\WpfClientApp\obj\Debug\MainWindow.baml
+c:\users\sadmi\documents\visual studio 2017\Projects\WpfClientApp\WpfClientApp\obj\Debug\WpfClientApp.g.resources
+c:\users\sadmi\documents\visual studio 2017\Projects\WpfClientApp\WpfClientApp\obj\Debug\WpfClientApp.Properties.Resources.resources
+c:\users\sadmi\documents\visual studio 2017\Projects\WpfClientApp\WpfClientApp\obj\Debug\WpfClientApp.csproj.GenerateResource.Cache
+c:\users\sadmi\documents\visual studio 2017\Projects\WpfClientApp\WpfClientApp\obj\Debug\WpfClientApp.exe
+c:\users\sadmi\documents\visual studio 2017\Projects\WpfClientApp\WpfClientApp\obj\Debug\WpfClientApp.pdb
+c:\users\sadmi\documents\visual studio 2017\Projects\WpfClientApp\WpfClientApp\bin\Debug\CaisseLibrary1.dll
+c:\users\sadmi\documents\visual studio 2017\Projects\WpfClientApp\WpfClientApp\bin\Debug\CaisseLibrary1.pdb
