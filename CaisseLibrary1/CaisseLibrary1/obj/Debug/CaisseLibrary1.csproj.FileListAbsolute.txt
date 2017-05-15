@@ -1,0 +1,4 @@
+C:\Users\Sadmi\Documents\Visual Studio 2017\Projects\CaisseLibrary1\CaisseLibrary1\bin\Debug\CaisseLibrary1.dll
+C:\Users\Sadmi\Documents\Visual Studio 2017\Projects\CaisseLibrary1\CaisseLibrary1\bin\Debug\CaisseLibrary1.pdb
+C:\Users\Sadmi\Documents\Visual Studio 2017\Projects\CaisseLibrary1\CaisseLibrary1\obj\Debug\CaisseLibrary1.dll
+C:\Users\Sadmi\Documents\Visual Studio 2017\Projects\CaisseLibrary1\CaisseLibrary1\obj\Debug\CaisseLibrary1.pdb
